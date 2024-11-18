@@ -14,9 +14,9 @@
   <form>
     <input type="checkbox"id="box1">
     <label for="box1">
-      Email</label>
+     <br> Email</label>
     <input type="checkbox"id="box2">
-    <label for="box2">
+    <label for="box2"></br>
       pasword</label>
   </form>
   
