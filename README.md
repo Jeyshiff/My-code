@@ -18,6 +18,12 @@
       <h3><img src="https://www.wildnatureimages.com/images/640/070620-014-The-Tetons.jpg" alt="The Tetons"></h3>
       <p>We offer a variety of products and services designed to meet your needs.</p>
       <a href="https://www.wildnatureimages.com/images/640/070620-014-The-Tetons.jpg">Click to get started</a>
+      <nav>
+        <br>
+        <a href="0740584684">contact me</a>
+        <a href="tubidy.com">find music</a>
+      </br>
+      </nav>
     </section>
   </main>
 
