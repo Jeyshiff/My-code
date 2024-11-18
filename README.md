@@ -9,7 +9,17 @@
 
   <header>
     <h1>Welcome to JULIUS Page</h1>
+    <p>enter your details </p>
   </header>
+  <form>
+    <input type="checkbox"id="box1">
+    <label for="box1">
+      Email</label>
+    <input type="checkbox"id="box2">
+    <label for="box2">
+      pasword</label>
+  </form>
+  
 
   <main>
     <section>
