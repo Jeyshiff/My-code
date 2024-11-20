@@ -6,11 +6,11 @@
   <title>Simple Landing Page</title>
 </head>
 <body>
-
+<head>
   
     <h1>Welcome to JULIUS Page</h1>
     <p>enter your details </p>
-  
+  </head>
   <form>
     <input type="checkbox"id="box1">
     <label for="box1">
