@@ -11,7 +11,7 @@
     <h1>Welcome to JULIUS Page</h1>
     <p>enter your details </p>
 </header>
-  <main>
+  
   <form>
     <input type="checkbox"id="box1">
     <label for="box1">
@@ -22,7 +22,7 @@
   </form>
   
 
-  
+  <main>
     <section>
     <!--Show the landind page details-->
       <h2>Discover <b>Julius</b>Products</h2>
