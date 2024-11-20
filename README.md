@@ -7,10 +7,10 @@
 </head>
 <body>
 
-  <header>
+  
     <h1>Welcome to JULIUS Page</h1>
     <p>enter your details </p>
-  </header>
+  
   <form>
     <input type="checkbox"id="box1">
     <label for="box1">
