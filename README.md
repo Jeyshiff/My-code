@@ -11,7 +11,7 @@
     <h1>Welcome to JULIUS Page</h1>
     <p>enter your details </p>
 </header>
-  
+  <main>
   <form>
     <input type="checkbox"id="box1">
     <label for="box1">
@@ -20,7 +20,7 @@
     <label for="box2"></br>
       pasword</label>
   </form>
-  
+  </main>
 
   <main>
     <section>
