@@ -15,7 +15,7 @@
   <form>
 <select>
 <option>Age</option>
-<option>Age 17</option>
+<option>17 and above</option>
 </select>
     <input type="checkbox"id="box1">
     <label for="box1">
