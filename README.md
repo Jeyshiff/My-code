@@ -11,8 +11,12 @@
     <h1>Welcome to JULIUS Page</h1>
     <p>enter your details </p>
 </header>
-  <main>
+  
   <form>
+<select>
+<option>Age</option>
+<option>Age 17</option>
+</select>
     <input type="checkbox"id="box1">
     <label for="box1">
      <br> Email</label>
@@ -20,7 +24,7 @@
     <label for="box2"></br>
       pasword</label>
   </form>
-  </main>
+  
 
   <main>
     <section>
