@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shareable Link</title>
+</head>
+<body>
+    <h1>Lema Wi-Fi Link</h1>
+    <p>Click the link below to reconnect to the Wi-Fi:</p>
+
+    <!-- Shareable Hyperlink -->
+    <a href="http://192.168.100.253/reconnect.html" style="color: blue; text-decoration: underline;" target="_blank">
+        http://192.168.100.253/reconnect.html
+    </a>
+</body>
+</html>
